@@ -7,6 +7,7 @@
 ## Results 
 
 Precision = True Positives / (True Positives + False Positives)
+
 Recall = True Positives / (True Positives + False Negatives)
 
 Machine Learning Model 1: 
